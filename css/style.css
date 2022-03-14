@@ -4,7 +4,7 @@
   }
 
 
-.intestazione{
+.sfondo{
     background-image: url(../img/sfondo.png);
     background-size: contain;
     width: 100%;
@@ -20,3 +20,21 @@
     margin-left:10px;
 }
 
+h1{
+    font-size: 70px;
+    margin-top: 30px;
+}
+
+h3{
+    color:grey;
+}
+
+.link{
+    color:cyan;
+    text-decoration:none;  
+}
+
+h5{
+    margin-top:10px;
+    color:grey;
+}
