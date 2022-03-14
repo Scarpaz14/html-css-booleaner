@@ -23,7 +23,7 @@ h1{
     margin-top: 30px;
 }
 
-h3{
+.autore{
     color:grey;
 }
 
@@ -46,11 +46,11 @@ h5{
  }
     
 
-.foto1{
+.tim1{
     width: 600px;
     height:500px;
 }
-.foto2{
+.tim2{
     width: 600px;
     height:500px;
 }
@@ -75,17 +75,48 @@ h5{
 }
 
 td{
-    width: 300px;
+    width: 350px;
     height: 50px;
 }
+
 .parte1{
     background-color:lightblue;
+    
 }
 
 .parte3{
     background-color:lightblue;
+    width: 350px;
 }
 .sopra{
     color:white;
     background-color:deepskyblue;
+    
 }
+.fine{
+    color: grey;
+    margin-top:20px;
+    margin-left:10px;
+}
+.foto1{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/foto1.jpg);
+    text-align: center;
+    font-size:30px;
+    color:white;
+    margin-left:10px;
+    padding:10px;
+}
+.foto2{
+    width: 300px;
+    height: 200px;
+    background-image: url(../img/foto2.jpg);
+    text-align: center;
+    font-size:30px;
+    color:white;
+    margin-left:10px;
+    margin-top:20px;
+    padding:10px;
+}
+
